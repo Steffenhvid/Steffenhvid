@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steffenhvid
-- 👀 I’m interested in C#, WPF, UWP, WinUI, ASP.NET, Blazor
-- 🌱 I’m currently learning WPF
-- 💞️ I’m looking to collaborate on Blazor or other web projects
+- 👀 I’m interested in C#, ASP.NET, Blazor, Python, ML and AI.
+- 🌱 I’m currently getting back into Python and data science.
+- 💞️ I’m looking to collaborate on any well specified project
 - 📫 How to reach me on Discord misterwhite#0497
 
 <!---
